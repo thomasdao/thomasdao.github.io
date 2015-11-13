@@ -14,3 +14,4 @@ github_username:  thomasdao
 
 # Build settings
 markdown: kramdown
+permalink: :title
